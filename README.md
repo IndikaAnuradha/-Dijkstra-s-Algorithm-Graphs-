@@ -13,5 +13,6 @@ Use a priority queue (or min-heap) to repeatedly select the unvisited node with 
 Relax edges: for each neighbor, update its distance if a shorter path is found.
 
 Continue until all nodes have been visited or the shortest path to the target is found.
+
 ![Motion Activity Plot](Example_Dijkstra Alg.png)
 
