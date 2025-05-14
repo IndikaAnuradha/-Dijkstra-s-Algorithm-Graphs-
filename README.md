@@ -15,6 +15,3 @@ It incrementally builds the shortest path by always choosing the closest unvisit
 
 :black_medium_square: Continue until all nodes have been visited or the shortest path to the target is found.
 
-![MQTT]([[https://github.com/IndikaAnuradha/MQTT-publisher-implementation-in-Python/assets/122884553/8bed5399-9fb2-4934-9800-457e7eabae21](https://github.com/IndikaAnuradha/-Dijkstra-s-Algorithm-Graphs-/blob/main/Example_Dijkstra%20Alg.png)]([https://github.com/IndikaAnuradha/-Dijkstra-s-Algorithm-Graphs-/blob/main/Example_Dijkstra%20Alg.png](https://github.com/IndikaAnuradha/-Dijkstra-s-Algorithm-Graphs-/blob/main/Example_Dijkstra%20Alg.png)))
-
-
