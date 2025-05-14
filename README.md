@@ -7,11 +7,11 @@ It incrementally builds the shortest path by always choosing the closest unvisit
 
 :eight_pointed_black_star: Algorithm Steps:
 
-Initialize distances to all nodes as infinity, except the source (set to 0).
+:black_medium_square: Initialize distances to all nodes as infinity, except the source (set to 0).
 
-Use a priority queue (or min-heap) to repeatedly select the unvisited node with the smallest known distance.
+:black_medium_square: Use a priority queue (or min-heap) to repeatedly select the unvisited node with the smallest known distance.
 
-Relax edges: for each neighbor, update its distance if a shorter path is found.
+:black_medium_square: Relax edges: for each neighbor, update its distance if a shorter path is found.
 
-Continue until all nodes have been visited or the shortest path to the target is found.
+:black_medium_square: Continue until all nodes have been visited or the shortest path to the target is found.
 
