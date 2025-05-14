@@ -6,6 +6,7 @@ Dijkstra’s Algorithm is a classic graph search algorithm that finds the shorte
 It incrementally builds the shortest path by always choosing the closest unvisited node, updating the cost of its neighbors, and marking it as visited.
 
 ✅ Algorithm Steps:
+
 Initialize distances to all nodes as infinity, except the source (set to 0).
 
 Use a priority queue (or min-heap) to repeatedly select the unvisited node with the smallest known distance.
@@ -13,7 +14,4 @@ Use a priority queue (or min-heap) to repeatedly select the unvisited node with 
 Relax edges: for each neighbor, update its distance if a shorter path is found.
 
 Continue until all nodes have been visited or the shortest path to the target is found.
-
-![Motion Activity Plot](Example_Dijkstra Alg.png)
-
 
