@@ -5,7 +5,7 @@ Dijkstra’s Algorithm is a classic graph search algorithm that finds the shorte
 :eight_pointed_black_star: Key Idea:
 It incrementally builds the shortest path by always choosing the closest unvisited node, updating the cost of its neighbors, and marking it as visited.
 
-✅ Algorithm Steps:
+:eight_pointed_black_star: Algorithm Steps:
 
 Initialize distances to all nodes as infinity, except the source (set to 0).
 
